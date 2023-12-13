@@ -1,0 +1,2 @@
+this is a express app template with database connection fucntionality
+used handlebars as templating engine
